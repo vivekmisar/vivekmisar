@@ -21,7 +21,7 @@ Dedicated to engineering precise, efficient solutions with a focus on Python, Ja
 
 ## 📁 Key Highlights
 * **SIH 2025 Participant:** Developed a gamified STEM learning platform.
-* **Kasnet Technologies:** Gained industrial exposure to Cloud Technologies during a specialized internship.
+* **Kasnet Technologies:** Gained industrial exposure to Cloud Technologies during a internship.
 
 ## 📊 GitHub Analytics
 ![Vivek's GitHub stats](https://github-readme-stats.vercel.app/api?username=vivekmisar&show_icons=true&theme=transparent)  
@@ -31,6 +31,5 @@ Dedicated to engineering precise, efficient solutions with a focus on Python, Ja
 
 ## ✉️ Get in Touch
 * **LinkedIn:** [linkedin.com/in/vivekmisar](https://in.linkedin.com/in/vivek-misar-7464262aa)
-* **Portfolio:** [Link to your portfolio if available]
 
 ![Profile views](https://komarev.com/ghpvc/?username=vivekmisar&style=flat-square)
