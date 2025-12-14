@@ -22,7 +22,6 @@ Dedicated to engineering precise, efficient solutions with a focus on Python, Ja
 ## 📁 Key Highlights
 * **SIH 2025 Participant:** Developed a gamified STEM learning platform.
 * **Kasnet Technologies:** Gained industrial exposure to Cloud Technologies during a specialized internship.
-* **Optimization Expert:** Built a Campus Route Optimizer using C++ (Branch & Bound) to solve complex logistical challenges.
 
 ## 📊 GitHub Analytics
 ![Vivek's GitHub stats](https://github-readme-stats.vercel.app/api?username=vivekmisar&show_icons=true&theme=transparent)  
