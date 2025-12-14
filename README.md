@@ -1,35 +1,36 @@
 # Vivek Misar
 
-### Engineer obsessed with precision and building meaningful, data-driven products. ⚡
+### Software Developer | Building Scalable, Data-Driven Applications 🚀
+
+Dedicated to engineering precise, efficient solutions with a focus on Python, Java, and Full-Stack development. Passionate about bridging the gap between complex data and actionable insights.
 
 ---
 
-## 🚧 Currently
+## 🏗️ Active Development
+* **Sales Forecasting System:** Architecting a Python-driven web application using **Django** and **Pandas** to transform historical data into predictive business decisions.
+* **Advanced Algorithms:** Refining problem-solving skills through daily **DSA** implementations and system design patterns.
 
-Building a Python-first, web-based Sales Forecasting application (Django + Pandas). Production-minded, API-ready, and focused on turning data into decisions.
+## 🛠️ Technical Ecosystem
 
-## 🛠️ Tech & Tools
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | Python, Java (OOP), C++, JavaScript (ES6+) |
+| **Web & Backend** | Django, React.js, Node.js, Express, RESTful APIs |
+| **Data & Analytics** | Pandas, NumPy, Matplotlib, SQL |
+| **Tools & Cloud** | Git/GitHub, Docker, Azure (Cloud Fundamentals), PostgreSQL, MongoDB |
 
-* **Languages:** Python, JavaScript (MERN)
-* **Backend:** Django, Node.js, Express
-* **Frontend:** React
-* **Data & ML:** Pandas, NumPy, Matplotlib
-* **Databases:** MongoDB, PostgreSQL
-* **Cloud & DevOps:** Azure, Git, Docker (as needed)
-* **Other:** REST APIs, CI/CD, data visualization
+## 📁 Key Highlights
+* **SIH 2025 Participant:** Developed a gamified STEM learning platform.
+* **Kasnet Technologies:** Gained industrial exposure to Cloud Technologies during a specialized internship.
+* **Optimization Expert:** Built a Campus Route Optimizer using C++ (Branch & Bound) to solve complex logistical challenges.
 
-## ✉️ Reach me
+## 📊 GitHub Analytics
+![Vivek's GitHub stats](https://github-readme-stats.vercel.app/api?username=vivekmisar&show_icons=true&theme=transparent)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vivekmisar&layout=compact&theme=transparent)
 
-[LinkedIn — Vivek Misar](https://in.linkedin.com/in/vivek-misar-7464262aa)
+---
 
-
-## 📈 Activity
-
-- Active on GitHub, shipping small improvements almost daily.
-- Currently focused on a Python-based Sales Forecasting web app.
-- Practicing MERN, cloud, and DS/Algo alongside project work.
+## ✉️ Get in Touch
+* **LinkedIn:** [linkedin.com/in/vivekmisar](https://in.linkedin.com/in/vivek-misar-7464262aa)
 
 ![Profile views](https://komarev.com/ghpvc/?username=vivekmisar&style=flat-square)
-![Followers](https://img.shields.io/github/followers/vivekmisar?style=flat-square&logo=github)
-![Stars](https://img.shields.io/github/stars/vivekmisar?affiliations=OWNER&style=flat-square&logo=github)
-
