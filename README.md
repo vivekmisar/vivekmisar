@@ -1,31 +1,34 @@
 # Vivek Misar
 
-### Software Developer | Building Scalable, Data-Driven Applications 🚀
-
-Dedicated to engineering precise, efficient solutions with a focus on Python, Java, and Full-Stack development. Passionate about bridging the gap between complex data and actionable insights.
-
----
-
-## 🏗️ Active Development
-* **Sales Forecasting System:** Architecting a Python-driven web application using **Django** and **Pandas** to transform historical data into predictive business decisions.
-* **Advanced Algorithms:** Refining problem-solving skills through daily **DSA** implementations and system design patterns.
-
-## 🛠️ Technical Ecosystem
-
-| Category | Technologies |
-| :--- | :--- |
-| **Languages** | Python, Java (OOP), C++, JavaScript (ES6+) |
-| **Web & Backend** | Django, React.js, Node.js, Express, RESTful APIs |
-| **Data & Analytics** | Pandas, NumPy, Matplotlib, SQL |
-| **Tools & Cloud** | Git/GitHub, Docker, Azure (Cloud Fundamentals), PostgreSQL, MongoDB |
-
-## 📁 Key Highlights
-* **SIH 2025 Participant:** Developed a gamified STEM learning platform.
-* **Kasnet Technologies:** Gained industrial exposure to Cloud Technologies during a internship.
+Developer. Clean code isn't a preference — it's a habit.  
+I build real things, obsess over how they work, and figure out the rest along the way.
 
 ---
 
-## ✉️ Get in Touch
-* **LinkedIn:** [linkedin.com/in/vivekmisar](https://in.linkedin.com/in/vivek-misar-7464262aa)
+## Recent Build
 
-![Profile views](https://komarev.com/ghpvc/?username=vivekmisar&style=flat-square)
+- **Sales Forecasting System** — A Django + Pandas web application that transforms historical sales data into actionable predictive intelligence.
+- **DSA** — Daily. Not for the grind aesthetic, just because it makes me a better thinker.
+
+---
+
+## Tech Stack
+
+| Area | Tools |
+|---|---|
+| Languages | Python, Java, JavaScript (ES6+) |
+| Backend & Web | Django, Node.js, Express, REST APIs |
+| Frontend | React.js |
+| Data | Pandas, NumPy, Matplotlib, SQL |
+| Dev & Cloud | Git, Docker, Azure, PostgreSQL, MongoDB |
+
+---
+
+## Highlights
+
+- Built a gamified STEM learning platform at **SIH 2025**
+- Gained real cloud exposure interning at **Kasnet Technologies**
+
+---
+
+[LinkedIn](https://linkedin.com/in/vivekmisar)
