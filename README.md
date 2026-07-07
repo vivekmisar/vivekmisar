@@ -32,7 +32,7 @@ I build real things, obsess over how they work, and figure out the rest along th
 
 ## 📈 GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=vivekmisar&theme=tokyonight&hide_border=true&background=0D1117)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=vivekmisar&theme=tokyonight&hide_border=true&background=0D1117&v=1)](https://git.io/streak-stats)
 
 ---
 
