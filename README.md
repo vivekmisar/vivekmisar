@@ -30,7 +30,7 @@ I build real things, obsess over how they work, and figure out the rest along th
 - Gained real cloud exposure interning at **Kasnet Technologies**
 
 
-![GitHub Streak](https://streak-stats.demolab.com?user=VivekMisar&theme=tokyonight&hide_border=true&background=0D1117)
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117" />
 
 ---
 
