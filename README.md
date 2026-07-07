@@ -31,12 +31,4 @@ I build real things, obsess over how they work, and figure out the rest along th
 
 ---
 
-## 📊 GitHub Stats
-
-<a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com/?user=vivekmisar&theme=tokyonight&hide_border=true&background=0D1117&cb=2" alt="GitHub Streak" />
-</a>
-
----
-
 [LinkedIn](https://linkedin.com/in/vivekmisar)
